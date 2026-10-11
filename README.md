@@ -10,7 +10,7 @@
 ![BI](https://img.shields.io/badge/Power%20BI-DAX-FFB000?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-Scheduled-34A853?style=for-the-badge)
 
-[📧 Email](mailto:tu@email.com) • [💼 LinkedIn](https://linkedin.com) • [🐙 GitHub](https://github.com/eriecua)
+[📧 Email](mailto:erickjoel16@hotmail.com) • [💼 LinkedIn](https://linkedin.com/in/erickjoelmoreno) • [🐙 GitHub](https://github.com/eriecua)
 
 </div>
 
