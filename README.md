@@ -1,101 +1,183 @@
-# 👋 Hola, soy Eric
+<div align="center">
 
-Soy un desarrollador enfocado en Python, automatización, análisis de datos y soluciones orientadas a mejorar procesos reales.
+# 👨‍💻 Erick Moreno
 
-Mi objetivo es crear herramientas útiles, automatizadas y fáciles de mantener, aplicando tecnología para resolver problemas de negocio y productividad.
+### Python Developer | Data Engineer | Automation & Analytics
 
-## 🚀 ¿Qué hago?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eriecua)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eriecua)
 
-- Desarrollo con Python
-- Web scraping y automatización
-- Análisis de datos y dashboards
-- Procesamiento de información para la toma de decisiones
-- Soluciones prácticas para tareas repetitivas
+</div>
 
-## 📌 Proyectos destacados
+---
 
-### [jobs-scraper-ecuador](https://github.com/eriecua/jobs-scraper-ecuador)
-Sistema para buscar empleos en plataformas como LinkedIn, Indeed, Computrabajo y Multitrabajos, con automatización para detectar nuevas vacantes y enviar reportes diarios por correo.
+## 🚀 About Me
 
-Tecnologías principales:
+Soy un desarrollador enfocado en resolver problemas reales con tecnología. Me especializo en:
+
 - Python
+- Automatización de procesos
 - Web scraping
-- Automatización
-- Email reporting
-
-Este proyecto refleja mi interés por resolver problemas reales con software práctico y útil para personas en su día a día.
-
----
-
-### [jobs_analysis](https://github.com/eriecua/jobs_analysis)
-Repositorio orientado al análisis de oportunidades laborales, con exploración y procesamiento de datos para identificar patrones, tendencias y oportunidades relevantes.
-
-Tecnologías principales:
-- Python
-- Pandas
 - Análisis de datos
-- Visualización
+- Business intelligence
+- Construcción de herramientas útiles para decisiones basadas en datos
+
+Mi objetivo es transformar información compleja en soluciones prácticas, automatizadas y fáciles de usar. Me interesa crear sistemas que ahorren tiempo, mejoren procesos y ayuden a tomar mejores decisiones.
 
 ---
 
-### [Analizador-de-horas](https://github.com/eriecua/Analizador-de-horas)
-Herramienta pensada para analizar horas de trabajo y productividad, con enfoque en organización y medición de tiempo.
+## 🔍 What I Build
 
-Tecnologías principales:
-- Python
-- Análisis de tiempo
-- Automatización
+Creo herramientas y soluciones que combinan programación, análisis y automatización para resolver problemas del mundo real.
 
----
-
-### [personal_finances](https://github.com/eriecua/personal_finances)
-Dashboard de finanzas personales con visualizaciones y métricas para analizar gastos, comportamiento financiero y toma de decisiones.
-
-Tecnologías principales:
-- Power BI
-- DAX
-- Dashboarding
-- BI
+- Extracción y limpieza de datos
+- Automatización de tareas repetitivas
+- Dashboards y análisis de negocio
+- Scraping de información pública en distintos portales
+- Pipelines de datos y reportes automáticos
+- Soluciones orientadas a productividad y eficiencia
 
 ---
 
-## 🛠️ Stack principal
+## 📌 Featured Projects
 
-- Python
-- Pandas
-- BeautifulSoup / web scraping
-- SQL
-- Power BI
-- DAX
-- Git / GitHub
-- Automatización de tareas
+### 🧠 Jobs Scraper Ecuador
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Scheduled-34A853?style=for-the-badge)
+![Scraping](https://img.shields.io/badge/Web%20Scraping-Active-FF6F61?style=for-the-badge)
 
-## 🎯 Perfil profesional
+[Repository](https://github.com/eriecua/jobs-scraper-ecuador)
 
-Me interesa trabajar en proyectos donde pueda combinar:
-- programación
-- análisis de datos
-- automatización
-- soluciones prácticas
-- aprendizaje continuo
+Sistema para buscar empleos en LinkedIn, Indeed, Computrabajo y Multitrabajos, con:
 
-Me gusta construir cosas que tengan impacto real y que ayuden a mejorar procesos, ahorrar tiempo y tomar decisiones mejor informadas.
+- Scraping automático en varias fuentes
+- Dedupe inteligente (empresa + puesto + ciudad)
+- Historial local para detectar solo novedades
+- Reporte diario por correo
+- Agrupación por ciudad y compatibilidad con perfil
+- Manejo de errores y reintentos
 
-## 📈 Mi enfoque
-
-Valoro:
-- código limpio
-- documentación clara
-- soluciones útiles
-- aprendizaje constante
-- trabajo orientado a resultados
-
-## 📬 Contacto
-
-- GitHub: [@eriecua](https://github.com/eriecua)
-- LinkedIn: [Agregar tu perfil]
-- Email: [Agregar tu correo]
+Este proyecto refleja mi enfoque en automatización, análisis y resolución de problemas concretos con impacto directo.
 
 ---
 
-> "Creo en usar la tecnología para resolver problemas reales y crear soluciones útiles para las personas."
+### 📊 Jobs Analysis
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+[Repository](https://github.com/eriecua/jobs_analysis)
+
+Análisis del mercado laboral usando datos históricos de vacantes para responder preguntas clave como:
+
+- ¿Qué tipos de empleo predominan?
+- ¿Cuáles son las ciudades con más demanda?
+- ¿Cómo se agrupan los puestos por categoría?
+
+Incluye clasificación por familias de empleo, tablas analíticas y visualizaciones útiles para toma de decisiones.
+
+---
+
+### 💰 Personal Finances Dashboard
+![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Measures-FFB000?style=for-the-badge)
+
+[Repository](https://github.com/eriecua/personal_finances)
+
+Dashboard de finanzas personales con análisis de:
+
+- Presupuesto mensual
+- Patrones de gasto
+- Análisis Pareto 80/20
+- KPI de variación mensual
+- Visualizaciones para análisis financiero
+
+Este proyecto muestra mi interés por el análisis de datos aplicados a decisiones de negocio y control financiero.
+
+---
+
+### ⏱️ Analizador de Horas
+![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+[Repository](https://github.com/eriecua/Analizador-de-horas)
+
+Proyecto para analizar patrones de productividad y organización del tiempo:
+
+- Seguimiento de horas
+- Visualización de actividad
+- Análisis de eficiencia
+- Organización de uso del tiempo
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|---|---|
+| Language | Python |
+| Data Analysis | Pandas, NumPy, Matplotlib |
+| Automation | Python scripts, schedulers, Gmail automation |
+| Web Scraping | BeautifulSoup, Requests, job APIs, scraping automation |
+| BI / Reporting | Power BI, DAX, Power Query |
+| Databases | CSV, SQLite, SQL basics |
+| Version Control | Git, GitHub |
+| Productivity | Excel, data cleaning, dashboards |
+
+---
+
+## 🧠 Problem Solving Approach
+
+Me gusta trabajar con un enfoque basado en:
+
+- Analizar el problema real
+- Identificar la fuente de datos
+- Automatizar la parte repetitiva
+- Estructurar la solución de forma clara
+- Validar resultados antes de entregarlos
+
+No solo escribo código: busco soluciones con propósito, orden y mantenimiento.
+
+---
+
+## 📈 What I Bring
+
+- Desarrollo práctico y automatizado
+- Capacidad para trabajar con datos reales
+- Enfoque en soluciones útiles y escalables
+- Habilidad para documentar y mantener proyectos
+- Curiosidad por entender procesos complejos
+- Pensamiento orientado a resultados
+
+---
+
+## 🚀 Availability
+
+- Location: Ecuador
+- Work mode: Remote / Hybrid / On-site
+- Looking for: Data projects, automation, analytics, scraping, BI, freelance or full-time
+
+---
+
+## 📬 Contact
+
+- Email: tuemail@gmail.com
+- LinkedIn: linkedin.com/in/your-profile
+- GitHub: github.com/eriecua
+
+---
+
+## 💡 Philosophy
+
+> “Creo en usar la tecnología para resolver problemas reales, automatizar lo repetitivo y convertir datos en decisiones útiles.”
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile
+
+![GitHub followers](https://img.shields.io/github/followers/eriecua?style=social)
+![GitHub stars](https://img.shields.io/github/stars/eriecua?style=social)
+
+</div>
