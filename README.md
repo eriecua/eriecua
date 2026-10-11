@@ -1,183 +1,124 @@
 <div align="center">
 
-# 👨‍💻 Erick Moreno
+# Erick Moreno
 
-### Python Developer | Data Engineer | Automation & Analytics
+**Python Developer | Data Engineer | Automation & Analytics**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erickjoelmoreno)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickjoel16@hotmail.com.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eriecua)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eriecua)
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data](https://img.shields.io/badge/Data%20Analysis-Advanced-4CAF50?style=for-the-badge)
+![Scraping](https://img.shields.io/badge/Web%20Scraping-Expert-FF6F61?style=for-the-badge)
+![BI](https://img.shields.io/badge/Power%20BI-DAX-FFB000?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Scheduled-34A853?style=for-the-badge)
+
+[📧 Email](mailto:tu@email.com) • [💼 LinkedIn](https://linkedin.com) • [🐙 GitHub](https://github.com/eriecua)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧰 Stack
 
-Soy un desarrollador enfocado en resolver problemas reales con tecnología. Me especializo en:
-
-- Python
-- Automatización de procesos
-- Web scraping
-- Análisis de datos
-- Business intelligence
-- Construcción de herramientas útiles para decisiones basadas en datos
-
-Mi objetivo es transformar información compleja en soluciones prácticas, automatizadas y fáciles de usar. Me interesa crear sistemas que ahorren tiempo, mejoren procesos y ayuden a tomar mejores decisiones.
-
----
-
-## 🔍 What I Build
-
-Creo herramientas y soluciones que combinan programación, análisis y automatización para resolver problemas del mundo real.
-
-- Extracción y limpieza de datos
-- Automatización de tareas repetitivas
-- Dashboards y análisis de negocio
-- Scraping de información pública en distintos portales
-- Pipelines de datos y reportes automáticos
-- Soluciones orientadas a productividad y eficiencia
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Advanced-FFB000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-43B02A?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📊 Proyectos destacados
 
-### 🧠 Jobs Scraper Ecuador
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Scheduled-34A853?style=for-the-badge)
-![Scraping](https://img.shields.io/badge/Web%20Scraping-Active-FF6F61?style=for-the-badge)
+### [jobs-scraper-ecuador](https://github.com/eriecua/jobs-scraper-ecuador)
+![Python](https://img.shields.io/badge/Python-3776AB)
+![Scraping](https://img.shields.io/badge/Web%20Scraping-Enabled-FF6F61)
+![SMTP](https://img.shields.io/badge/Email%20Automation-Enabled-34A853)
+![Automation](https://img.shields.io/badge/Task%20Scheduling-Enabled-6A5AE0)
 
-[Repository](https://github.com/eriecua/jobs-scraper-ecuador)
-
-Sistema para buscar empleos en LinkedIn, Indeed, Computrabajo y Multitrabajos, con:
-
-- Scraping automático en varias fuentes
-- Dedupe inteligente (empresa + puesto + ciudad)
+- Multi-source scraping: LinkedIn, Indeed, Computrabajo, Multitrabajos
+- Dedupe inteligente por empresa + puesto + ciudad
 - Historial local para detectar solo novedades
-- Reporte diario por correo
-- Agrupación por ciudad y compatibilidad con perfil
-- Manejo de errores y reintentos
+- Email reports diarios con gráficos HTML
+- Scoring de compatibilidad por perfil
+- Manejo de errores con retries y fallbacks
+- Windows / macOS / Linux support
 
-Este proyecto refleja mi enfoque en automatización, análisis y resolución de problemas concretos con impacto directo.
+### [jobs_analysis](https://github.com/eriecua/jobs_analysis)
+![Python](https://img.shields.io/badge/Python-3776AB)
+![Pandas](https://img.shields.io/badge/Pandas-Analysis-150458)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-FF6F61)
 
----
+- Análisis de mercado laboral ecuatoriano
+- Clasificación automática de puestos
+- Agrupación por ciudad, provincia y tipo de rol
+- Exportación a CSV listo para BI
+- Visualización de tendencias por categoría
 
-### 📊 Jobs Analysis
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### [personal_finances](https://github.com/eriecua/personal_finances)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
+![DAX](https://img.shields.io/badge/DAX-Measures-FFB000)
 
-[Repository](https://github.com/eriecua/jobs_analysis)
+- Dashboard financiero personal
+- KPI de gastos por categoría
+- Análisis mensual y variación presupuestaria
+- Modelado con Power Query
+- Visualizaciones analíticas e interactivas
 
-Análisis del mercado laboral usando datos históricos de vacantes para responder preguntas clave como:
+### [Analizador-de-horas](https://github.com/eriecua/Analizador-de-horas)
+![Python](https://img.shields.io/badge/Python-3776AB)
 
-- ¿Qué tipos de empleo predominan?
-- ¿Cuáles son las ciudades con más demanda?
-- ¿Cómo se agrupan los puestos por categoría?
-
-Incluye clasificación por familias de empleo, tablas analíticas y visualizaciones útiles para toma de decisiones.
-
----
-
-### 💰 Personal Finances Dashboard
-![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Measures-FFB000?style=for-the-badge)
-
-[Repository](https://github.com/eriecua/personal_finances)
-
-Dashboard de finanzas personales con análisis de:
-
-- Presupuesto mensual
-- Patrones de gasto
-- Análisis Pareto 80/20
-- KPI de variación mensual
-- Visualizaciones para análisis financiero
-
-Este proyecto muestra mi interés por el análisis de datos aplicados a decisiones de negocio y control financiero.
+- Time tracking & productivity analysis
+- Reportes de productividad y patrones de uso
+- Análisis de horas por actividad
 
 ---
 
-### ⏱️ Analizador de Horas
-![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 📈 Focus areas
 
-[Repository](https://github.com/eriecua/Analizador-de-horas)
-
-Proyecto para analizar patrones de productividad y organización del tiempo:
-
-- Seguimiento de horas
-- Visualización de actividad
-- Análisis de eficiencia
-- Organización de uso del tiempo
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Tools |
-|---|---|
-| Language | Python |
-| Data Analysis | Pandas, NumPy, Matplotlib |
-| Automation | Python scripts, schedulers, Gmail automation |
-| Web Scraping | BeautifulSoup, Requests, job APIs, scraping automation |
-| BI / Reporting | Power BI, DAX, Power Query |
-| Databases | CSV, SQLite, SQL basics |
-| Version Control | Git, GitHub |
-| Productivity | Excel, data cleaning, dashboards |
+- Data extraction
+- ETL / data pipelines
+- Automation
+- Business intelligence
+- Web scraping
+- Dashboarding
+- Reporting
+- Data cleaning
+- Process optimization
 
 ---
 
-## 🧠 Problem Solving Approach
+## 🧠 What I do
 
-Me gusta trabajar con un enfoque basado en:
-
-- Analizar el problema real
-- Identificar la fuente de datos
-- Automatizar la parte repetitiva
-- Estructurar la solución de forma clara
-- Validar resultados antes de entregarlos
-
-No solo escribo código: busco soluciones con propósito, orden y mantenimiento.
-
----
-
-## 📈 What I Bring
-
-- Desarrollo práctico y automatizado
-- Capacidad para trabajar con datos reales
-- Enfoque en soluciones útiles y escalables
-- Habilidad para documentar y mantener proyectos
-- Curiosidad por entender procesos complejos
-- Pensamiento orientado a resultados
+- Build data pipelines and automation scripts
+- Scrape structured data from multiple sources
+- Transform raw data into dashboards and reports
+- Design repeatable workflows for analysis and monitoring
+- Improve operational efficiency through software
 
 ---
 
 ## 🚀 Availability
 
 - Location: Ecuador
-- Work mode: Remote / Hybrid / On-site
-- Looking for: Data projects, automation, analytics, scraping, BI, freelance or full-time
+- Remote / Hybrid / On-site
+- Open to: Data, Automation, BI, Scraping, Freelance, Full-time
 
 ---
 
 ## 📬 Contact
 
-- Email: tuemail@gmail.com
-- LinkedIn: linkedin.com/in/your-profile
+- Email: tu@email.com
+- LinkedIn: linkedin.com/in/tu-perfil
 - GitHub: github.com/eriecua
-
----
-
-## 💡 Philosophy
-
-> “Creo en usar la tecnología para resolver problemas reales, automatizar lo repetitivo y convertir datos en decisiones útiles.”
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile
-
-![GitHub followers](https://img.shields.io/github/followers/eriecua?style=social)
-![GitHub stars](https://img.shields.io/github/stars/eriecua?style=social)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eriecua&show_icons=true&hide_border=true&theme=radical)
 
 </div>
