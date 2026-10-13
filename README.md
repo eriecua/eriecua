@@ -46,6 +46,14 @@
 - Scoring de compatibilidad por perfil
 - Manejo de errores con retries y fallbacks
 - Windows / macOS / Linux support
+### Caso de estudio: Análisis de ventas en Power BI
+
+Modelo de datos en estrella con transformaciones en Power Query, medidas DAX y un dashboard de cumplimiento de objetivos con 1,000 transacciones y objetivos mensuales 2016–2019, con KPIs, Top 3 clientes, Top 10 SKU y cumplimiento mensual.
+
+Repositorio: https://github.com/eriecua/Caso-Empresarial
+
+![Dashboard de ventas](https://raw.githubusercontent.com/eriecua/Caso-Empresarial/main/Dashboard%20caso%20de%20estudio.png)
+
 
 ### [jobs_analysis](https://github.com/eriecua/jobs_analysis)
 ![Python](https://img.shields.io/badge/Python-3776AB)
